@@ -1,6 +1,13 @@
 # NFT Preview Card Component
 
-![Project Screenshot](./src/images/image-equilibrium.jpg)
+![Project Screenshot](src/images/image-equilibrium.jpg)
+
+## 📋 Table of Contents
+- [📖 About the Project](#-about-the-project)
+- [🚀 Technologies Used](#-technologies-used)
+- [📸 Screenshot](#-screenshot)
+- [🏗️ How to Run the Project](#️-how-to-run-the-project)
+- [🧑‍💻 Author](#-author)
 
 ## 📖 About the Project
 
@@ -19,7 +26,7 @@ The card includes:
 
 ## 📸 Screenshot
 
-![NFT Preview Card](./src/images/image-equilibrium.jpg)
+![NFT Preview Card](src/images/image-equilibrium.jpg)
 
 ## 🏗️ How to Run the Project
 
@@ -27,18 +34,34 @@ The card includes:
    ```bash
    git clone <repository-url>
    ```
-2. Open the `index.html` file in your browser.
+2. Navigate to the project directory:
+   ```bash
+   cd workshop-nft-card-inicial-main
+   ```
+3. Open the `index.html` file in your browser.
 
 ## 🧑‍💻 Author
 
-- **LinkedIn**: [Your Name](https://www.linkedin.com/in/Eleandro1302)
-- **GitHub**: [YourUsername](https://www.linkedin.com/in/eleandro-mangrich/)
+This project was created by **Eleandro** as part of the **DevQuest** course and a challenge from **Frontend Mentor**.
+
+- **LinkedIn**: [Eleandro Mangrich](https://www.linkedin.com/in/eleandro-mangrich/)
+- **GitHub**: [Eleandro's GitHub](https://github.com/YourUsername)
+- **Email**: [eleandro@example.com](mailto:eleandro@example.com)
+
+Feel free to connect with me for feedback or collaboration opportunities!
 
 ---
 
 # Componente de Cartão de Pré-visualização de NFT
 
-![Captura de Tela do Projeto](./src/images/image-equilibrium.jpg)
+![Captura de Tela do Projeto](src/images/image-equilibrium.jpg)
+
+## 📋 Índice
+- [📖 Sobre o Projeto](#-sobre-o-projeto)
+- [🚀 Tecnologias Utilizadas](#-tecnologias-utilizadas)
+- [📸 Captura de Tela](#-captura-de-tela)
+- [🏗️ Como Executar o Projeto](#️-como-executar-o-projeto)
+- [🧑‍💻 Autor](#-autor)
 
 ## 📖 Sobre o Projeto
 
@@ -57,7 +80,7 @@ O cartão inclui:
 
 ## 📸 Captura de Tela
 
-![Cartão de Pré-visualização de NFT](./src/images/image-equilibrium.jpg)
+![Cartão de Pré-visualização de NFT](src/images/image-equilibrium.jpg)
 
 ## 🏗️ Como Executar o Projeto
 
@@ -65,9 +88,18 @@ O cartão inclui:
    ```bash
    git clone <repository-url>
    ```
-2. Abra o arquivo `index.html` no seu navegador.
+2. Navegue até o diretório do projeto:
+   ```bash
+   cd workshop-nft-card-inicial-main
+   ```
+3. Abra o arquivo `index.html` no seu navegador.
 
 ## 🧑‍💻 Autor
 
-- **LinkedIn**: [Seu Nome](https://www.linkedin.com/in/Eleandro1302)
-- **GitHub**: [SeuUsuario](https://www.linkedin.com/in/eleandro-mangrich/)
+Este projeto foi criado por **Eleandro** como parte do curso **DevQuest** e um desafio do **Frontend Mentor**.
+
+- **LinkedIn**: [Eleandro Mangrich](https://www.linkedin.com/in/eleandro-mangrich/)
+- **GitHub**: [GitHub do Eleandro](https://github.com/YourUsername)
+- **Email**: [eleandro@example.com](mailto:eleandro@example.com)
+
+Sinta-se à vontade para entrar em contato para feedback ou oportunidades de colaboração!
